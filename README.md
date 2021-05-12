@@ -17,5 +17,5 @@ This repo contains the source code of the project.
 ## Creator
 
 * Madeline Marquardt
-    - [https://github.com/richardkalehoff](https://github.com/MadelineMarq)
+    - [https://github.com/MadelineMarq](https://github.com/MadelineMarq)
  
